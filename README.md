@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  </head>
   <body>
     <h1> CRUD-APP-MERN-STACK </h1>
+    <p>
+ This project aims to develop a web application utilizing the MERN Stack for performing CRUD (Create, Read, Update, Delete) operations on a database. MongoDB serves as the database to store data, Express.js handles the server-side logic, Node.js powers the backend environment, and React.js manages the frontend user interface. The application enables users to interact with data through a user-friendly interface, allowing them to create, view, update, and delete records efficiently.
+    </p>
     <h3>Frontend</h3>
     <ul>
       <li>Frontend Code: client folder</li>
@@ -28,6 +29,8 @@
       <li>node index.js (Run Project)</li>
       </li>
     </ul>
+
+    
     
   </body>
 </html>
