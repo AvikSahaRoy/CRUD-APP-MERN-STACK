@@ -30,6 +30,7 @@
       </li>
     </ul>
     <h1>Output</h1>
+    <h3>Install all node modules using npm install</h3>
     <img src="https://github.com/AvikSahaRoy/CRUD-APP-MERN-STACK/blob/main/Output.jpg">
     
   </body>
