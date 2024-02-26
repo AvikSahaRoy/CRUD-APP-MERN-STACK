@@ -29,8 +29,8 @@
       <li>node index.js (Run Project)</li>
       </li>
     </ul>
-
-    
+    <h1>Output</h1>
+    <img src="https://github.com/AvikSahaRoy/CRUD-APP-MERN-STACK/blob/main/Output.jpg">
     
   </body>
 </html>
