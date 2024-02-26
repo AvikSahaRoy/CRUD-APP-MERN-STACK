@@ -21,7 +21,11 @@
     <h3>Backend</h3>
     <ul>
       <li>Backend Code: server folder</li>
-      <li>Technologies used: Node.js, Express.js, MongoDB </li>
+      <li>Technologies used: Node.js, Express.js</li>
+    </ul>
+    <h3>Database</h3>
+    <ul>
+      <li>MongoDB</li>
     </ul>
     <h3>How to create and run Node.js project</h3>
     <ul>
