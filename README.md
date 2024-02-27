@@ -33,8 +33,17 @@
       <li>node index.js (Run Project)</li>
       </li>
     </ul>
+    <h1>Instructions to use</h1>
+    <ul>
+      <li>Download the zip & Extract the files</li>
+      <li>Make sure you have install Node.js, MongoDB in your system</li>
+      <li>Navigate to the project directory: cd project_directory</li>
+      <li>Install dependencies: npm install</li>
+      <li>Start the backend server: node index.js</li>
+      <li>Start the frontend client: npm run dev </li>
+      <li>Access the application in your browser: http://localhost:5173</li>
+    </ul>
     <h1>Output</h1>
-    <h3>Install all node modules using npm install</h3>
     <img src="https://github.com/AvikSahaRoy/CRUD-APP-MERN-STACK/blob/main/Output.jpg">
     
   </body>
